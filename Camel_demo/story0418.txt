@@ -1,0 +1,76 @@
+Instruction: Describe Li's feelings as he faces the endless DDLs from group projects.  
+Input: None
+Solution: As Li sat amidst the picturesque cherry blossoms and vibrant azaleas of the SJTU campus, a growing sense of dread enveloped him. Each day blurred into the next, a relentless cycle dominated by the suffocating presence of deadlines looming like dark clouds overhead. The weight of the group projects pressed down on his shoulders, making him feel as if an unseen anchor was dragging him deeper into the quagmire of academic responsibilities. 
+
+With each passing hour, his anxiety spiked—his heart raced, and a cold sweat broke out across his brow. The constant chatter of his peers around him felt like a cacophony of distractions, amplifying his isolation. Li appreciated their camaraderie but was painfully aware that he was alone in the ticking clock of unending DDLs. Procrastination weighed heavily on him, igniting a sense of guilt for not keeping up. 
+
+In moments of clarity, however, Li oscillated between determination and overwhelming despair. He silently vowed to conquer the projects, but the thought of collaboration with teammates brought a new layer of anxiety. Would they contribute equally, or would he be left to bear the burden alone? 
+
+As the clock struck 8 AM on the day of a key lecture, the room filled with restless students. Li barely took notice of the topic being discussed; his focus zeroed in on the chaotic energy around him. Impostors—he thought they were competitors, but they felt more like phantoms, invading his space, their colorful appearances mocking his monochrome state of mind. At that poignant moment, as he made the decision to flee the lecture hall, a realization washed over him: the deadlines that haunted him were not mere dates on a calendar; they were powerful entities that had claimed him, trapping him in a cycle of perpetual stress.
+
+Next request.
+Instruction: Illustrate the moment when Li first spots the impostors in vibrant colors invading Yican.  
+Input: None
+Solution: One sunny afternoon, as Li found solace in the quiet refuge of Yican, the mesmerizing blend of scholarly architecture and nature brought a momentary sense of peace to his frayed nerves. The trees stood tall, their leaves whispering secrets of resilience, a stark contrast to the turmoil brewing within him. But that tranquility was abruptly shattered.
+
+As Li gazed around, he noticed a surge of movement at the fringes of his vision. At first, he dismissed it as a figment of his stressed imagination, a mere distraction from his overwhelmed mind. But as he turned his head, he was hit with a wave of vibrant energy cascading through the serene landscape – the impostors had arrived. 
+
+They emerged like splashes of paint on a blank canvas, each clad in shades that defied the muted palette of academia. Their laughter rang out, crystalline and infectious, cutting through the often sterile atmosphere of university life. Some wore vivid scarlet jackets, others donned electric blue and sunshine yellow, and a few were wrapped in psychedelic patterns that seemed to shift with every movement they made. The impostors moved in a dynamic rhythm, their enjoyment palpable, spreading an air of carefree abandon that stood in stark contrast to his looming deadlines.
+
+Li felt a prickle at the back of his neck, a sense of unease that twisted his stomach into knots. Here were others, embracing the spirit of the campus while he remained shackled to his laptop, scrambling to meet the demands of academia. The vibrant figures twirled and danced, occasionally engaging in spontaneous performances that drew attention from others resting in the shade. Their joy felt like a taunt, casting a shadow on his own drab existence entrenched in responsibilities.
+
+With every laugh and cheer that echoed near Yican, the impostors seemed to encroach further into his thoughts. They embodied everything he yearned for: freedom, laughter, and the thrill of living in the moment—elements that felt foreign to him as deadlines loomed closer. Envy mingled with his anxiety, a two-headed beast that refused to let go. Watching the impostors, a sudden wave of realization washed over him. He was not merely an observer of this vibrant world; he was an unwilling participant in a battle against the very essence of joy and spontaneity that he craved.
+
+And just like that, the vivid impostors invaded his mind as much as they invaded Yican. They became symbols of all he feared to lose: time, creativity, and a carefree spirit that felt lost beneath the pressures of student life.
+
+Next request.
+Instruction: Detail the chaos in the 8 AM lecture and Li's decision to escape.  
+Input: None
+Solution: The morning sun cast a golden hue upon the SJTU campus, but inside the lecture hall, the atmosphere felt anything but serene. As the clock struck 8 AM, students shuffled into their seats, rubbing the sleep from their eyes, some still clutching their coffee cups like lifelines. The air was thick with a mixture of murmurs and shuffling papers, underscored by the distant sound of traffic outside. The anticipation before the lecture began felt electric, a chaotic energy pulsating through the crowd.
+
+Li found himself seated in the back, his mind a whirlwind of thoughts focused on the never-ending deadlines that loomed like storm clouds in his peripheral vision. As the professor entered, a wave of silence washed over the room, but Li's focus drifted. He barely heard the introduction; all he could think about were the group projects awaiting his attention, gnashing their teeth in his mind.
+
+Once the lecture began in earnest, the chaos that had smoldered under the surface suddenly ignited. An enthusiastic classmate at the front raised their hand to answer a question, but instead of offering wisdom, they accidentally knocked over an entire cup of coffee, sending it cascading across the desk and splattering onto the unsuspecting student in the front row. The ensuing laughter was contagious, echoing through the hall, but for Li, it only heightened his sense of anxiety. The wave of uproar continued as students exchanged incessant whispers, fidgeted in their seats, and the occasional shout erupted amid the humorous banter that flourished like weeds.
+
+Through the cacophony, Li’s gaze drifted to the vibrant impostors he had encountered in Yican, their energy seeping into the lecture hall, overpowering the structured environment. The chaos mirrored his own internal struggle; the more he tried to concentrate on the lecture, the more chaotic it became. Each rising giggle and every unexpected outburst felt personal—a direct jab at his mounting pressures.
+
+As the professor launched into an overly complex explanation, his words turned into a blurred hornet's nest along with the noise, overwhelming Li's senses. The impending deadlines clawed at his resolve, and with every shared laugh around him, he felt more and more like an outsider, trapped in a world that didn't care about his anxieties. Paralyzed by the urgency of his projects, he scanned the room for an escape.
+
+In a moment of explosive determination, Li leaned forward, gripping the edges of his desk like a lifeline. The chaos surged around him—friends laughing and sharing notes, the professor passionately gesturing on stage, the impostors' lively spirits weaving through the mix. But Li felt a wave of clarity pierce through the tumult: he couldn’t stay. The power of the deadlines had rendered him powerless, and here, surrounded by laughter and life, he felt a desperate need to flee.
+
+With a pounding heart, he stood up abruptly, drawing momentary glances from his classmates. In that instant, it didn’t matter how he would be perceived—All he desired was to escape the chaos and confront the deadlines that haunted him in solitude. He slipped out of the lecture hall, thoughts swirling like the colors of the impostors that had invaded Yican, an echo of joy that now only fueled his urgency to reclaim his time.
+
+Next request.
+Instruction: Describe Li's realization after escaping the lecture hall about the true nature of his deadlines.  
+Input: None
+Solution: As Li surged through the halls of SJTU, the sound of chaos receding behind him, he stepped out into the fresh air, a rush of freedom washing over him. The fragrant scent of blooming azaleas mingled with the crisp morning breeze, a stark contrast to the weight he had just fled. For a moment, exultation chased away the dark clouds of anxiety. Here, outside the lecture hall, he could think unencumbered by the pressures he had just escaped.
+
+But as he took a deep breath, an unsettling thought crept in. With each step away from the noise, the realization began to crystallize, a burgeoning awareness that had been diluted by the chaos he had witnessed. Li slowed, feeling the once exhilarating thought of escape begin to muddle with a sense of foreboding. The deadlines that plagued him were not mere numbers on a calendar, or antagonistic forces set against him. They were manifestations of his own fears, swirling memories of unattainable perfection, and unspoken expectations.
+
+He leaned against a cool brick wall, the sunlight flickering through the leaves above him, casting playful shadows around. As he soaked in the serenity, flashes of the vibrant impostors filled his mind again, embodying the carefree spirit he had long forgotten. They were a vivid reminder of a world filled with possibility, a direct contrast to the suffocating box he had allowed his academic life to become.
+
+In that moment of clarity, it struck him: the true nature of his deadlines was a reflection of himself, his ambitions, and his fears. They were not the enemy but rather a challenge—a call to rise above his self-imposed limitations. Li had allowed the pressure to distort his reality, seeing only the burdens rather than the opportunities to learn, to grow, and to engage in meaningful collaboration. They weren’t just chores to be completed but rather stepping stones to deeper knowledge and authentic connections with his classmates.
+
+He closed his eyes briefly, envisioning the late nights spent in the library, the exchange of ideas with his group members, and the potential for discovery hidden within those projects. The thought began to shift, transforming the dread into motivation—a fire igniting in his core. He realized he had the power to reframe this reality, to view the deadlines as an invitation to embrace the learning process rather than fear it.
+
+With renewed vigor, Li pushed away from the wall, determined to face his deadlines with a fresh perspective. Instead of fleeing from them, he resolved to confront them, armed not only with sleepless nights but with a renewed sense of purpose. He understood now that it wasn’t just about the projects or the grades; it was about the experiences and growth embedded in each step of the journey.
+
+With a deep breath, Li made a beeline back toward the lecture hall, ready to reclaim the chaos and take control of his destiny. He would not allow deadlines to define him but would instead emerge stronger for the experience, turning every moment of dread into an opportunity for growth.
+
+Next request.
+Instruction: Conclude the story by summarizing Li's transformation and his new outlook on deadlines and collaboration.  
+Input: None
+Solution: In the heart of SJTU, under the brilliant embrace of spring, Li emerged from a turbulent journey transformed. What began as dread in the face of endless deadlines had evolved into a realization of empowerment—a lesson engraved deeply within his mind. He no longer saw deadlines as insurmountable walls looming over him but as bridges leading him toward growth and opportunity. 
+
+Once paralyzed by anxiety and the terror of group projects, he now approached his academic responsibilities with a newfound perspective. Where there had been isolation, he cultivated a spirit of collaboration; he understood that these projects were not solo endeavors but interactions rich with the potential for shared learning. He learned to embrace his peers not as burdens but as allies in the pursuit of knowledge, where every discussion held the possibility of enlightenment and every shared struggle was a connection forged.
+
+Li's transformation was not just a change of mindset; it became a way of life. He actively sought out engagement, fostering interactions that went beyond the constraining digital confines of texts and emails. Meetings with teammates became pockets of creativity, where inspiration flowed freely amidst brainstorming sessions, laughter, and shared snacks. The collaborative efforts blossomed into friendships, rich with support and understanding, transforming stressful deadlines into collective goals.
+
+When faced with an impending due date, instead of succumbing to panic and despair, Li viewed it as a chance to delve deeper into the subject matter. He began to plan purposefully, breaking down projects into manageable tasks, allowing space for reflection and creativity. He had turned what was once a source of anxiety into a motivator for accomplishment, continually reminding himself that every deadline was merely an invitation to explore the realms of knowledge further.
+
+As days turned to weeks, and weeks into months, Li thrived in this newfound environment. He had learned the art of balance, embracing both the joys of academic rigor and the necessity of leisure. No longer shackled by the fear of failure, he welcomed every challenge with resilience, knowing now that each step taken—no matter how small—was a stride toward personal growth.
+
+Ultimately, Li’s journey at SJTU became one of triumph over trauma, highlighting the power of reframing one’s outlook. For what were once seen as chains constraining him became wings, allowing him to soar through the diverse and vibrant landscape of academia, bursting forth from the shadows of impostors to embrace the beauty of both deadlines and collaboration. In the end, he emerged not merely as a diligent student but as a vibrant member of a community, ready to tackle whatever life—and deadlines—had in store.
+
+Next request.
+<CAMEL_TASK_DONE>
