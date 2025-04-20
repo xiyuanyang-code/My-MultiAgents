@@ -22,7 +22,7 @@ def read_file(filename="Original.txt"):
         filename (str): file name for the original text
     """
     with open(filename, "r", encoding="utf-8") as file:
-        return file.read().strip()
+        return file.read()
 
 
 def write_file(content: str, filename="Final.txt"):

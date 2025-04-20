@@ -22,7 +22,7 @@ requirements = "1.Check the spelling and grammar mistakes for the whole passage.
     4.Generate a report regarding your modification, including the ultimate modified passage and the detailed descriptions.\
     Ensure that all of your modifications adhere to the conventions of English usage. "
 
-specified_requirements = ""
+# specified_requirements = ""
 # Wait after the task_decomposer finish
 
 total_task = f"The total task for you to be solved is to modify an argumentative essay based on specific topic and instructions.\
